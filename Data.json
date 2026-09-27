@@ -1,0 +1,25 @@
+{
+    "Ban_Type": "temp",
+    "Temp_Ban_Duration": [
+        0,
+        0,
+        50
+    ],
+    "Warn User Amount": 0,
+    "Port Types": [
+        "21",
+        "22",
+        "80"
+    ],
+    "Path to Port Logs": [
+        "/var/log/auth.log"
+        
+    ],
+    "Whitelist": [
+        ""
+    ],
+    "Banned IPs": [
+        ""
+    ],
+    "Status": "inactive"
+}

@@ -2,7 +2,7 @@
 
 A python program that detects brute force attempts made on ports of the users choosing
 
-This program includes logging of banned IP addresses that attempted to brute force ports, white listing, manual banning and unbanning, built in commands to change settings in port protector, Port lockdown
+This program includes logging of banned IP addresses that attempted to brute force ports, white listing, manual banning and unbanning, built in commands to change settings in port protector, and Port lockdown
 
 DISCLAIMER: DO NOT USE THIS PROGRAM TO PROTECT REAL DATA, THIS IS JUST A FUN PROJECT I MADE AND PORT PROTECT IS VERY BUGGY, IF YOU DO USE THIS TO PROTECT REAL DATA I AM NOT RESPONSIBLE FOR ANY DAMAGES THAT MAY OCCUR
 

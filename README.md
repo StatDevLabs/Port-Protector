@@ -8,6 +8,8 @@ DISCLAIMER: DO NOT USE THIS PROGRAM TO PROTECT REAL DATA, THIS IS JUST A FUN PRO
 
 NOTE: there may be commands and code that may not contribute anything to the overall functionality of port protector. These will be removed in the next branch
 
+NOTE: This program will only function correctly on Linux Systems
+
 Command Syntax:
 
 pp ban [IP ADDRESS] --> this command will manually ban the IP address you enter
